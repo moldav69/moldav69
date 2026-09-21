@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo-white.svg" width="112" alt="Michelangelo Sapunaru logo" />
+<img src="./assets/assets/profile-header.svg" width="112" alt="Michelangelo Sapunaru logo" />
 
 # Michelangelo Sapunaru
 
