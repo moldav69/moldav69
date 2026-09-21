@@ -10,8 +10,7 @@
 </circle>
 <!-- Official logo geometry, enlarged -->
 <g transform="translate(65 40) scale(1.55)" fill="#fff" opacity="0">
- <animate attributeName="opacity" values="0;1" dur=".8s" begin=".15s" fill="freeze"/>
- <animateTransform attributeName="transform" type="translate" values="55 40;65 40" dur=".8s" begin=".15s" fill="freeze" additive="replace"/>
+ <animate attributeName="opacity" values="0;1" dur=".9s" begin=".15s" fill="freeze"/>
  <g transform="matrix(1,0,0,1,0.000196,0.000241)"><g transform="matrix(1,0,0,1,-135.228748,-350.259837)"><g transform="matrix(1.005527,0,0,1.007876,123.808754,143.388515)">
   <g transform="matrix(0.689521,-0.724265,0.724265,0.689521,-179.426433,166.036379)"><path d="M141.368,211.756C143.865,213.099 157.031,220.178 168.64,234.388C170.963,237.232 175.158,243.473 175.453,244.517C176.516,248.272 170.38,251.144 167.787,248.25C166.107,246.376 161.687,237.221 148.285,226.772C123.122,207.153 87.752,205.064 58.772,221.956C53.042,225.297 43.769,233.44 40.932,236.868C36.122,242.68 14.4,266.651 20.896,306.437C21.525,310.292 24.181,320.908 28.166,328.654C35.038,342.009 40.615,347.254 44.036,350.953C47.797,355.019 60.656,366.109 77.386,370.942C105.555,379.08 137.239,372.628 159.544,347.54C167.855,338.192 167.118,335.24 171.497,335.541C174.198,335.727 175.961,338.436 175.223,340.388C175.14,340.607 169.623,351.498 156.578,362.592C150.927,367.397 138.641,375.373 127.558,378.69C125.557,379.289 98.539,389.217 67.427,376.694C33.864,363.184 10.063,328.622 10.949,289.516C11.332,272.628 17.795,253.04 27.648,239.603C28.968,237.803 39.941,220.68 62.713,209.964C73.754,204.768 93.709,198.756 116.569,203.09C118.836,203.52 127.189,204.677 141.368,211.756Z"/></g>
   <g transform="matrix(0.689521,-0.724265,0.724265,0.689521,-179.426433,166.036379)"><path d="M180.499,278.491C183.011,278.254 183.015,278.084 185.5,278.502C186.995,278.753 188.952,279.531 189.377,279.748C197.506,283.884 197.01,292.284 196.936,293.54C196.204,305.954 181.671,310.253 173.733,303.225C167.41,297.626 169.041,289.753 169.791,287.603C172.515,279.786 178.96,278.836 180.499,278.491Z"/></g>
@@ -21,17 +20,36 @@
   <path d="M52.599,290.995C54.39,290.696 54.38,290.705 54.533,290.672C60.14,289.463 60.096,289.301 80.423,285.157C85.143,284.194 85.593,283.772 87.85,286.19C90.014,288.511 90.134,288.359 92.321,290.666C94.777,293.258 92.749,294.253 89.948,296.975C86.927,299.911 86.323,301.288 83.435,300.853C77.995,300.034 58.577,295.461 56.424,294.954C49.872,293.411 48.339,293.985 47.856,293.222C47.782,293.105 47.806,291.98 47.88,291.887C48.138,291.56 49.824,291.327 52.599,290.995Z"/>
  </g></g></g>
 </g>
-<text x="390" y="103" fill="#fff" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".55s" begin=".45s" fill="freeze"/></text>
-<text x="390" y="103" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" letter-spacing="1.4">MICHELANGELO SAPUNARU</text>
-<text x="390" y="151" fill="#e5e7eb" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".55s" begin=".65s" fill="freeze"/></text>
-<text x="390" y="151" fill="#e5e7eb" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" letter-spacing="2.6">AI &amp; DIGITAL INNOVATION SPECIALIST</text>
+<text x="390" y="103" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" letter-spacing="1.4" opacity="0">MICHELANGELO SAPUNARU
+ <animate attributeName="opacity" values="0;1" dur=".65s" begin=".55s" fill="freeze"/>
+</text>
+<text x="390" y="151" fill="#e5e7eb" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" letter-spacing="2.6" opacity="0">AI &amp; DIGITAL INNOVATION SPECIALIST
+ <animate attributeName="opacity" values="0;1" dur=".65s" begin=".8s" fill="freeze"/>
+</text>
 <line x1="390" y1="179" x2="1160" y2="179" stroke="#334155" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
  <animate attributeName="stroke-dashoffset" from="1" to="0" dur=".8s" begin=".85s" fill="freeze"/>
 </line>
-<text x="390" y="222" fill="#cbd5e1" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="1s" fill="freeze"/></text>
-<text x="390" y="222" fill="#cbd5e1" font-family="Arial,Helvetica,sans-serif" font-size="20">Applied AI  ·  Business Automation  ·  Digital Products</text>
-<text x="390" y="263" fill="#94a3b8" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".5s" begin="1.15s" fill="freeze"/></text>
-<text x="390" y="263" fill="#94a3b8" font-family="Arial,Helvetica,sans-serif" font-size="16">AI systems and automations for real-world problems and business processes.</text>
+<text x="390" y="222" fill="#cbd5e1" font-family="Arial,Helvetica,sans-serif" font-size="20" opacity="0">Applied AI  ·  Business Automation  ·  Digital Products
+ <animate attributeName="opacity" values="0;1" dur=".6s" begin="1.15s" fill="freeze"/>
+</text>
+<text x="390" y="263" fill="#94a3b8" font-family="Arial,Helvetica,sans-serif" font-size="16" opacity="0">AI systems and automations for real-world problems and business processes.
+ <animate attributeName="opacity" values="0;1" dur=".6s" begin="1.35s" fill="freeze"/>
+</text>
 <circle cx="394" cy="306" r="5" fill="#fff"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" begin="1.3s" repeatCount="indefinite"/></circle>
 <text x="411" y="312" fill="#94a3b8" font-family="Arial,Helvetica,sans-serif" font-size="15">Rome, Italy  ·  ITS ICT Academy Roma</text>
+
+<g opacity=".55">
+ <rect x="20" y="0" width="1240" height="2" rx="1" fill="#ffffff" opacity=".16">
+  <animate attributeName="y" values="18;340;18" dur="7s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".05;.22;.05" dur="7s" repeatCount="indefinite"/>
+ </rect>
+ <circle cx="1110" cy="58" r="3" fill="#fff">
+  <animate attributeName="cx" values="1110;1160;1110" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".2;1;.2" dur="4s" repeatCount="indefinite"/>
+ </circle>
+ <circle cx="1080" cy="305" r="2" fill="#fff">
+  <animate attributeName="cx" values="1080;1140;1080" dur="5.5s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".15;.8;.15" dur="5.5s" repeatCount="indefinite"/>
+ </circle>
+</g>
 </svg>
