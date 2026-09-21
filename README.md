@@ -21,7 +21,7 @@
 <tr>
 <td width="33%" valign="top">
 
-### <img src="./assets/icons/brain-circuit.svg" width="18" height="18" align="absmiddle" alt=""> AI Systems
+### <img src="https://raw.githubusercontent.com/moldav69/moldav69/main/assets/icons/brain-circuit.svg" width="18" height="18" align="absmiddle" alt=""> AI Systems
 LLM integrations, AI agents and intelligent workflows designed around practical use cases.
 
 `LLM Integration` `AI Agents` `RAG` `Tool Calling` `Structured Outputs` `Multimodal AI`
@@ -29,7 +29,7 @@ LLM integrations, AI agents and intelligent workflows designed around practical 
 </td>
 <td width="33%" valign="top">
 
-### <img src="./assets/icons/workflow.svg" width="18" height="18" align="absmiddle" alt=""> Business Automation
+### <img src="https://raw.githubusercontent.com/moldav69/moldav69/main/assets/icons/workflow.svg" width="18" height="18" align="absmiddle" alt=""> Business Automation
 Workflows connecting tools, APIs and data to reduce repetitive work and improve processes.
 
 `n8n` `API Integration` `Automated Workflows` `Data Processing` `AI Automation`
@@ -37,7 +37,7 @@ Workflows connecting tools, APIs and data to reduce repetitive work and improve 
 </td>
 <td width="33%" valign="top">
 
-### <img src="./assets/icons/monitor-smartphone.svg" width="18" height="18" align="absmiddle" alt=""> Digital Products
+### <img src="https://raw.githubusercontent.com/moldav69/moldav69/main/assets/icons/monitor-smartphone.svg" width="18" height="18" align="absmiddle" alt=""> Digital Products
 Modern web applications and digital solutions built from prototype to deployment.
 
 `Next.js` `React` `TypeScript` `Node.js` `PostgreSQL` `Docker`
@@ -48,34 +48,47 @@ Modern web applications and digital solutions built from prototype to deployment
 
 ## Technology
 
-**Languages** · Python · JavaScript · TypeScript · HTML · CSS  
-**Frontend** · React · Next.js  
-**Backend & Data** · Node.js · PostgreSQL · REST APIs · Appwrite  
-**AI & Automation** · OpenRouter · n8n · LLM APIs · AI Agents · RAG  
-**Infrastructure & Tools** · Docker · Git · GitHub · Cloudflare  
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Languages & Frontend**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs&theme=dark" height="38" alt="Languages and frontend technologies">
+
+</td>
+<td width="50%" valign="top">
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,appwrite&theme=dark" height="38" alt="Backend and data technologies">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Infrastructure & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,cloudflare&theme=dark" height="38" alt="Infrastructure and development tools">
+
+</td>
+<td width="50%" valign="top">
+
+**AI & Automation**
+
+`OpenRouter` `n8n` `LLM APIs` `AI Agents` `RAG` `REST APIs`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 **Web Platforms** · WordPress · WooCommerce
 
-## GitHub activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=moldav69&hide_border=true&background=0D1117&stroke=30363D&ring=F0F6FC&fire=F0F6FC&currStreakLabel=F0F6FC&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=6E7681&card_width=1180">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=moldav69&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=24292F&fire=24292F&currStreakLabel=24292F&sideLabels=57606A&currStreakNum=24292F&sideNums=24292F&dates=6E7781&card_width=1180" alt="GitHub streak">
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=moldav69&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=F0F6FC">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=moldav69&show_icons=true&hide_rank=true&hide_border=true&bg_color=FFFFFF&title_color=24292F&text_color=57606A&icon_color=24292F" alt="GitHub stats">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=moldav69&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moldav69&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=24292F&text_color=57606A" alt="Top languages">
-</picture>
-
-</div>
+</td>
+</tr>
+</table>
 
 ## Contribution activity
 
