@@ -48,57 +48,65 @@ Modern web applications and digital solutions built from prototype to deployment
 
 ## Technology
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **Languages & Frontend**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs&theme=dark" height="38" alt="Languages and frontend technologies">
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs&theme=dark" height="42" alt="Python, JavaScript, TypeScript, HTML, CSS, React, Next.js">
+</p>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,appwrite&theme=dark" height="38" alt="Backend and data technologies">
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,appwrite&theme=dark" height="42" alt="Node.js, PostgreSQL, Appwrite">
+</p>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="34%" valign="top">
 
 **Infrastructure & Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,cloudflare&theme=dark" height="38" alt="Infrastructure and development tools">
-
-</td>
-<td width="50%" valign="top">
-
-**AI & Automation**
-
-`OpenRouter` `n8n` `LLM APIs` `AI Agents` `RAG` `REST APIs`
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,cloudflare&theme=dark" height="42" alt="Docker, Git, GitHub, Cloudflare">
+</p>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="67%" colspan="2" valign="top">
 
-**Web Platforms** · WordPress · WooCommerce
+**AI & Automation**
+
+<p>
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="38" height="38" alt="LLM APIs">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="38" height="38" alt="n8n">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openrouter/FFFFFF" width="38" height="38" alt="OpenRouter">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/json/FFFFFF" width="38" height="38" alt="REST APIs">
+</p>
+
+**LLM APIs** · **n8n** · **OpenRouter** · **AI Agents** · **RAG** · **REST APIs**
+
+</td>
+<td width="33%" valign="top">
+
+**Web Platforms**
+
+<p>
+<img src="https://cdn.simpleicons.org/wordpress/FFFFFF" width="38" height="38" alt="WordPress">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/woocommerce/96588A" width="38" height="38" alt="WooCommerce">
+</p>
+
+**WordPress** · **WooCommerce**
 
 </td>
 </tr>
 </table>
-
-## Contribution activity
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moldav69/moldav69/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moldav69/moldav69/output/snake-light.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/moldav69/moldav69/output/snake-light.svg">
-</picture>
-</div>
 
 ## Currently
 
