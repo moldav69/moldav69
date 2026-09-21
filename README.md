@@ -1,10 +1,13 @@
-<div align="center">
-
+<!-- ===== THEME-AWARE LIVE HERO ===== -->
 <a href="https://michelangelosapunaru.com">
-  <img src="./assets/profile-header.svg" width="100%" alt="Michelangelo Sapunaru — AI & Digital Innovation Specialist">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moldav69/moldav69/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moldav69/moldav69/main/light.svg">
+  <img width="100%" alt="Michelangelo Sapunaru — AI & Digital Innovation Specialist" src="https://raw.githubusercontent.com/moldav69/moldav69/main/light.svg">
+</picture>
 </a>
 
-<br>
+<div align="center">
 
 <a href="https://michelangelosapunaru.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" height="34" alt="Portfolio"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sapunaru-michelangelo"><img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="LinkedIn"></a>&nbsp;&nbsp;
@@ -52,21 +55,44 @@ Modern web applications and digital solutions built from prototype to deployment
 **Infrastructure & Tools** · Docker · Git · GitHub · Cloudflare  
 **Web Platforms** · WordPress · WooCommerce
 
+## GitHub activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=moldav69&hide_border=true&background=0D1117&stroke=30363D&ring=F0F6FC&fire=F0F6FC&currStreakLabel=F0F6FC&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=6E7681&card_width=1180">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=moldav69&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=24292F&fire=24292F&currStreakLabel=24292F&sideLabels=57606A&currStreakNum=24292F&sideNums=24292F&dates=6E7781&card_width=1180" alt="GitHub streak">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=moldav69&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=F0F6FC">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=moldav69&show_icons=true&hide_rank=true&hide_border=true&bg_color=FFFFFF&title_color=24292F&text_color=57606A&icon_color=24292F" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=moldav69&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moldav69&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=24292F&text_color=57606A" alt="Top languages">
+</picture>
+
+</div>
+
+## Contribution activity
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moldav69/moldav69/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moldav69/moldav69/output/snake-light.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/moldav69/moldav69/output/snake-light.svg">
+</picture>
+</div>
+
 ## Currently
 
 - Specializing in **AI & Digital Innovation** at **ITS ICT Academy Roma**
 - Exploring practical applications of **AI agents, LLMs and intelligent workflows**
 - Building automation approaches for real-world business processes
 - Expanding across **AI, automation and full-stack development**
-
-## GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=moldav69&show_icons=true&hide_rank=true&hide_border=true&theme=transparent" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moldav69&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
-
-</div>
 
 ---
 
