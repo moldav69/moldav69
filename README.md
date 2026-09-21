@@ -1,14 +1,24 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="Michelangelo Sapunaru — AI & Digital Innovation Specialist" />
+<img src="./assets/logo-white.svg" width="112" alt="Michelangelo Sapunaru logo" />
 
-<br/>
+# Michelangelo Sapunaru
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-michelangelosapunaru.com-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://michelangelosapunaru.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sapunaru-michelangelo)
-[![Email](https://img.shields.io/badge/Email-Contact-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981)](mailto:contact@michelangelosapunaru.com)
+### AI & Digital Innovation Specialist
+
+**Applied AI · Business Automation · Digital Products**
+
+I build **AI-powered systems and automations** that turn real-world problems and repetitive business processes into practical digital solutions.
+
+📍 Rome, Italy &nbsp; · &nbsp; 🎓 ITS ICT Academy Roma
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-michelangelosapunaru.com-18181B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://michelangelosapunaru.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-18181B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sapunaru-michelangelo)
+[![Email](https://img.shields.io/badge/Email-Contact-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@michelangelosapunaru.com)
 
 </div>
+
+---
 
 ## What I build
 
