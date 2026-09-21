@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8FAFC"/><stop offset=".55" stop-color="#F1F5F9"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#0F172A" stop-opacity=".10"/><stop offset="1" stop-color="#0F172A" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+<rect x="1" y="1" width="1278" height="358" rx="23" fill="none" stroke="#CBD5E1"/>
+<circle cx="205" cy="180" r="165" fill="url(#halo)">
+  <animate attributeName="opacity" values=".45;1;.45" dur="5s" repeatCount="indefinite"/>
+</circle>
+<!-- Official logo geometry, enlarged -->
+<g transform="translate(65 40) scale(1.55)" fill="#0F172A" opacity="0">
+ <animate attributeName="opacity" values="0;1" dur=".9s" begin=".15s" fill="freeze"/>
+ <g transform="matrix(1,0,0,1,0.000196,0.000241)"><g transform="matrix(1,0,0,1,-135.228748,-350.259837)"><g transform="matrix(1.005527,0,0,1.007876,123.808754,143.388515)">
+  <g transform="matrix(0.689521,-0.724265,0.724265,0.689521,-179.426433,166.036379)"><path d="M141.368,211.756C143.865,213.099 157.031,220.178 168.64,234.388C170.963,237.232 175.158,243.473 175.453,244.517C176.516,248.272 170.38,251.144 167.787,248.25C166.107,246.376 161.687,237.221 148.285,226.772C123.122,207.153 87.752,205.064 58.772,221.956C53.042,225.297 43.769,233.44 40.932,236.868C36.122,242.68 14.4,266.651 20.896,306.437C21.525,310.292 24.181,320.908 28.166,328.654C35.038,342.009 40.615,347.254 44.036,350.953C47.797,355.019 60.656,366.109 77.386,370.942C105.555,379.08 137.239,372.628 159.544,347.54C167.855,338.192 167.118,335.24 171.497,335.541C174.198,335.727 175.961,338.436 175.223,340.388C175.14,340.607 169.623,351.498 156.578,362.592C150.927,367.397 138.641,375.373 127.558,378.69C125.557,379.289 98.539,389.217 67.427,376.694C33.864,363.184 10.063,328.622 10.949,289.516C11.332,272.628 17.795,253.04 27.648,239.603C28.968,237.803 39.941,220.68 62.713,209.964C73.754,204.768 93.709,198.756 116.569,203.09C118.836,203.52 127.189,204.677 141.368,211.756Z"/></g>
+  <g transform="matrix(0.689521,-0.724265,0.724265,0.689521,-179.426433,166.036379)"><path d="M180.499,278.491C183.011,278.254 183.015,278.084 185.5,278.502C186.995,278.753 188.952,279.531 189.377,279.748C197.506,283.884 197.01,292.284 196.936,293.54C196.204,305.954 181.671,310.253 173.733,303.225C167.41,297.626 169.041,289.753 169.791,287.603C172.515,279.786 178.96,278.836 180.499,278.491Z"/></g>
+  <path d="M105.366,303.627C108.617,307.077 109.019,307.512 108.748,309.532C108.159,313.93 102.792,337.057 102.086,342.42C102.053,342.668 101.714,345.242 101.494,345.494C99.648,347.603 99.249,343.82 99.224,343.583C98.516,336.86 92.345,310.542 92.403,308.504C92.457,306.63 93.892,305.804 98.235,301.242C100.278,299.096 100.972,299.004 102.938,301.094C104.142,302.375 104.159,302.33 105.366,303.627Z"/>
+  <path d="M133.435,287.805C147.437,290.831 150.095,291.134 151.563,291.301C151.709,291.317 153.115,291.478 153.365,291.682C153.427,291.732 154.546,293.331 152.617,293.741C151.583,293.96 150.338,293.736 145.579,294.885C137.607,296.81 123.368,299.773 121.431,300.176C116.288,301.246 115.858,301.37 113.633,299.351C108.164,294.39 108,294.019 107.728,293.406C107.302,292.447 107.296,292.095 112.775,286.815C115.492,284.196 115.754,283.981 119.433,284.818C126.425,286.409 126.406,286.404 133.435,287.805Z"/>
+  <path d="M98.813,245.569C99.584,240.178 99.313,239.594 100.507,239.592C102.258,239.588 101.635,242.518 102.803,247.432C104.563,254.834 108.126,271.977 108.708,275.471C109.201,278.434 108.569,278.75 102.611,284.615C100.468,286.724 99.859,285.669 98.132,283.844C94.46,279.965 92.503,278.512 92.475,276.499C92.462,275.539 98.012,249.303 98.813,245.569Z"/>
+  <path d="M52.599,290.995C54.39,290.696 54.38,290.705 54.533,290.672C60.14,289.463 60.096,289.301 80.423,285.157C85.143,284.194 85.593,283.772 87.85,286.19C90.014,288.511 90.134,288.359 92.321,290.666C94.777,293.258 92.749,294.253 89.948,296.975C86.927,299.911 86.323,301.288 83.435,300.853C77.995,300.034 58.577,295.461 56.424,294.954C49.872,293.411 48.339,293.985 47.856,293.222C47.782,293.105 47.806,291.98 47.88,291.887C48.138,291.56 49.824,291.327 52.599,290.995Z"/>
+ </g></g></g>
+</g>
+<text x="390" y="103" fill="#0F172A" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" letter-spacing="1.4" opacity="0">MICHELANGELO SAPUNARU
+ <animate attributeName="opacity" values="0;1" dur=".65s" begin=".55s" fill="freeze"/>
+</text>
+<text x="390" y="151" fill="#334155" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" letter-spacing="2.6" opacity="0">AI &amp; DIGITAL INNOVATION SPECIALIST
+ <animate attributeName="opacity" values="0;1" dur=".65s" begin=".8s" fill="freeze"/>
+</text>
+<line x1="390" y1="179" x2="1160" y2="179" stroke="#CBD5E1" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
+ <animate attributeName="stroke-dashoffset" from="1" to="0" dur=".8s" begin=".85s" fill="freeze"/>
+</line>
+<text x="390" y="222" fill="#334155" font-family="Arial,Helvetica,sans-serif" font-size="20" opacity="0">Applied AI  ·  Business Automation  ·  Digital Products
+ <animate attributeName="opacity" values="0;1" dur=".6s" begin="1.15s" fill="freeze"/>
+</text>
+<text x="390" y="263" fill="#64748B" font-family="Arial,Helvetica,sans-serif" font-size="16" opacity="0">AI systems and automations for real-world problems and business processes.
+ <animate attributeName="opacity" values="0;1" dur=".6s" begin="1.35s" fill="freeze"/>
+</text>
+<circle cx="394" cy="306" r="5" fill="#0F172A"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" begin="1.3s" repeatCount="indefinite"/></circle>
+<text x="411" y="312" fill="#64748B" font-family="Arial,Helvetica,sans-serif" font-size="15">Rome, Italy  ·  ITS ICT Academy Roma</text>
+
+<g opacity=".55">
+ <rect x="20" y="0" width="1240" height="2" rx="1" fill="#0F172Afff" opacity=".16">
+  <animate attributeName="y" values="18;340;18" dur="7s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".05;.22;.05" dur="7s" repeatCount="indefinite"/>
+ </rect>
+ <circle cx="1110" cy="58" r="3" fill="#0F172A">
+  <animate attributeName="cx" values="1110;1160;1110" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".2;1;.2" dur="4s" repeatCount="indefinite"/>
+ </circle>
+ <circle cx="1080" cy="305" r="2" fill="#0F172A">
+  <animate attributeName="cx" values="1080;1140;1080" dur="5.5s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".15;.8;.15" dur="5.5s" repeatCount="indefinite"/>
+ </circle>
+</g>
+</svg>
