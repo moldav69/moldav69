@@ -18,7 +18,7 @@
 <tr>
 <td width="33%" valign="top">
 
-### <img src="./assets/icons/brain-circuit.svg" width="20" height="20" alt=""> &nbsp;AI Systems
+### <img src="./assets/icons/brain-circuit.svg" width="18" height="18" align="absmiddle" alt=""> AI Systems
 LLM integrations, AI agents and intelligent workflows designed around practical use cases.
 
 `LLM Integration` `AI Agents` `RAG` `Tool Calling` `Structured Outputs` `Multimodal AI`
@@ -26,7 +26,7 @@ LLM integrations, AI agents and intelligent workflows designed around practical 
 </td>
 <td width="33%" valign="top">
 
-### <img src="./assets/icons/workflow.svg" width="20" height="20" alt=""> &nbsp;Business Automation
+### <img src="./assets/icons/workflow.svg" width="18" height="18" align="absmiddle" alt=""> Business Automation
 Workflows connecting tools, APIs and data to reduce repetitive work and improve processes.
 
 `n8n` `API Integration` `Automated Workflows` `Data Processing` `AI Automation`
@@ -34,7 +34,7 @@ Workflows connecting tools, APIs and data to reduce repetitive work and improve 
 </td>
 <td width="33%" valign="top">
 
-### <img src="./assets/icons/monitor-smartphone.svg" width="20" height="20" alt=""> &nbsp;Digital Products
+### <img src="./assets/icons/monitor-smartphone.svg" width="18" height="18" align="absmiddle" alt=""> Digital Products
 Modern web applications and digital solutions built from prototype to deployment.
 
 `Next.js` `React` `TypeScript` `Node.js` `PostgreSQL` `Docker`
