@@ -1,122 +1,73 @@
 <div align="center">
 
-# Michelangelo Sapunaru
+<img src="./assets/profile-header.svg" width="100%" alt="Michelangelo Sapunaru — AI & Digital Innovation Specialist" />
 
-### AI & Digital Innovation Specialist
+<br/>
 
-**Applied AI · Business Automation · Digital Products**
-
-📍 Rome, Italy &nbsp;·&nbsp; 🎓 ITS ICT Academy Roma
-
-<br>
-
-I build **AI-powered systems and automations** that turn real-world problems  
-and repetitive business processes into practical digital solutions.
-
-<br>
-
-[Portfolio](https://michelangelosapunaru.com) ·
-[LinkedIn](https://www.linkedin.com/in/sapunaru-michelangelo) ·
-[Email](mailto:contact@michelangelosapunaru.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-michelangelosapunaru.com-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://michelangelosapunaru.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sapunaru-michelangelo)
+[![Email](https://img.shields.io/badge/Email-Contact-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981)](mailto:contact@michelangelosapunaru.com)
 
 </div>
 
----
+## What I build
 
-## What I Build
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### AI Systems
+### 🤖 AI Systems
+LLM integrations, AI agents and intelligent workflows designed around practical use cases.
 
-LLM integrations, AI agents and intelligent workflows designed to solve
-practical problems and integrate AI into real digital products.
+`LLM Integration` `AI Agents` `RAG` `Tool Calling` `Structured Outputs` `Multimodal AI`
 
-`LLM Integration` `AI Agents` `RAG` `Tool Calling` `Structured Outputs`
-`Prompt Engineering` `Multimodal AI`
+</td>
+<td width="33%" valign="top">
 
-### Business Automation
+### ⚙️ Business Automation
+Workflows connecting tools, APIs and data to reduce repetitive work and improve processes.
 
-Automated workflows that connect tools, APIs and data to reduce repetitive
-work and make business processes more efficient.
+`n8n` `API Integration` `Automated Workflows` `Data Processing` `AI Automation`
 
-`n8n` `API Integration` `Automated Workflows` `Data Processing`
-`AI Automation`
+</td>
+<td width="33%" valign="top">
 
-### Digital Products
-
-Modern web applications and digital solutions built around real use cases,
-from prototype to deployment.
+### ◇ Digital Products
+Modern web applications and digital solutions built from prototype to deployment.
 
 `Next.js` `React` `TypeScript` `Node.js` `PostgreSQL` `Docker`
 
----
+</td>
+</tr>
+</table>
 
 ## Technology
 
-**Languages**
-
-`Python` `JavaScript` `TypeScript` `HTML` `CSS`
-
-**Frontend**
-
-`React` `Next.js`
-
-**Backend & Data**
-
-`Node.js` `PostgreSQL` `REST APIs` `Appwrite`
-
-**AI & Automation**
-
-`OpenRouter` `n8n` `LLM APIs` `AI Agents` `RAG`
-
-**Infrastructure & Tools**
-
-`Docker` `Git` `GitHub` `Cloudflare`
-
-**Web Platforms**
-
-`WordPress` `WooCommerce`
-
----
+**Languages** · Python · JavaScript · TypeScript · HTML · CSS  
+**Frontend** · React · Next.js  
+**Backend & Data** · Node.js · PostgreSQL · REST APIs · Appwrite  
+**AI & Automation** · OpenRouter · n8n · LLM APIs · AI Agents · RAG  
+**Infrastructure & Tools** · Docker · Git · GitHub · Cloudflare  
+**Web Platforms** · WordPress · WooCommerce
 
 ## Currently
 
-- Specializing in **AI & Digital Innovation** at ITS ICT Academy Roma
-- Exploring practical applications of **AI agents and LLMs**
-- Building automation workflows for real-world business processes
-- Expanding my experience across AI, automation and full-stack development
+- Specializing in **AI & Digital Innovation** at **ITS ICT Academy Roma**
+- Exploring practical applications of **AI agents, LLMs and intelligent workflows**
+- Building automation approaches for real-world business processes
+- Expanding across **AI, automation and full-stack development**
 
----
-
-## GitHub Activity
+## GitHub activity
 
 <div align="center">
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=moldav69&show_icons=true&hide_rank=true&hide_border=true"
-/>
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=moldav69&layout=compact&hide_border=true"
-/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=moldav69&show_icons=true&hide_rank=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moldav69&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 
 </div>
 
 ---
 
 <div align="center">
-
-### Let's connect
-
-[**Portfolio**](https://michelangelosapunaru.com)
-&nbsp; · &nbsp;
-[**LinkedIn**](https://www.linkedin.com/in/sapunaru-michelangelo)
-&nbsp; · &nbsp;
-[**Email**](mailto:contact@michelangelosapunaru.com)
-
-<br>
-
-*Building practical AI systems, smarter automations and digital products.*
-
+<sub>Building practical AI systems, smarter automations and useful digital products.</sub>
 </div>
