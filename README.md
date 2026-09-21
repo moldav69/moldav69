@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="112" alt="Michelangelo Sapunaru logo" />
+<img src="./assets/profile-header.svg" width="100%" alt="Michelangelo Sapunaru — AI & Digital Innovation Specialist" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-michelangelosapunaru.com-18181B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://michelangelosapunaru.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-18181B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sapunaru-michelangelo)
-[![Email](https://img.shields.io/badge/Email-Contact-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@michelangelosapunaru.com)
+<br><br>
+
+<a href="https://michelangelosapunaru.com"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20website-21262D?style=flat-square&logo=googlechrome&logoColor=white" height="28" alt="Portfolio"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sapunaru-michelangelo"><img src="https://img.shields.io/badge/LINKEDIN-Connect-21262D?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"></a>
+&nbsp;
+<a href="mailto:contact@michelangelosapunaru.com"><img src="https://img.shields.io/badge/EMAIL-Contact-21262D?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email"></a>
 
 </div>
 
----
+<br>
 
 ## What I build
 
@@ -16,7 +20,7 @@
 <tr>
 <td width="33%" valign="top">
 
-### 🤖 AI Systems
+### AI Systems
 LLM integrations, AI agents and intelligent workflows designed around practical use cases.
 
 `LLM Integration` `AI Agents` `RAG` `Tool Calling` `Structured Outputs` `Multimodal AI`
@@ -24,7 +28,7 @@ LLM integrations, AI agents and intelligent workflows designed around practical 
 </td>
 <td width="33%" valign="top">
 
-### ⚙️ Business Automation
+### Business Automation
 Workflows connecting tools, APIs and data to reduce repetitive work and improve processes.
 
 `n8n` `API Integration` `Automated Workflows` `Data Processing` `AI Automation`
@@ -32,7 +36,7 @@ Workflows connecting tools, APIs and data to reduce repetitive work and improve 
 </td>
 <td width="33%" valign="top">
 
-### ◇ Digital Products
+### Digital Products
 Modern web applications and digital solutions built from prototype to deployment.
 
 `Next.js` `React` `TypeScript` `Node.js` `PostgreSQL` `Docker`
@@ -61,8 +65,8 @@ Modern web applications and digital solutions built from prototype to deployment
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=moldav69&show_icons=true&hide_rank=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moldav69&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=moldav69&show_icons=true&hide_rank=true&hide_border=true&theme=transparent" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moldav69&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
 
 </div>
 
