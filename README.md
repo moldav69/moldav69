@@ -1,18 +1,16 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="Michelangelo Sapunaru — AI & Digital Innovation Specialist" />
-
-<br><br>
-
-<a href="https://michelangelosapunaru.com"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20website-21262D?style=flat-square&logo=googlechrome&logoColor=white" height="28" alt="Portfolio"></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/sapunaru-michelangelo"><img src="https://img.shields.io/badge/LINKEDIN-Connect-21262D?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"></a>
-&nbsp;
-<a href="mailto:contact@michelangelosapunaru.com"><img src="https://img.shields.io/badge/EMAIL-Contact-21262D?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email"></a>
-
-</div>
+<a href="https://michelangelosapunaru.com">
+  <img src="./assets/profile-header.svg" width="100%" alt="Michelangelo Sapunaru — AI & Digital Innovation Specialist">
+</a>
 
 <br>
+
+<a href="https://michelangelosapunaru.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" height="34" alt="Portfolio"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sapunaru-michelangelo"><img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="mailto:contact@michelangelosapunaru.com"><img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white" height="34" alt="Email"></a>
+
+</div>
 
 ## What I build
 
