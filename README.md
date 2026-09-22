@@ -101,7 +101,7 @@ Modern web applications and digital solutions built from prototype to deployment
 
 <br><br>
 
-<img src="https://cdn.simpleicons.org/openai/4D9477" width="40" height="40" alt="OpenAI / LLM APIs">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LLM-API-4D9477?style=for-the-badge&labelColor=0B2B26&color=4D9477" height="40" alt="LLM APIs">&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" height="40" alt="n8n">&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/openrouter/FFFFFF" width="40" height="40" alt="OpenRouter">&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/json/FFFFFF" width="40" height="40" alt="REST APIs">
