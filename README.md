@@ -50,59 +50,80 @@ Modern web applications and digital solutions built from prototype to deployment
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
-**Languages & Frontend**
+<img src="https://img.shields.io/badge/Languages%20%26%20Frontend-4D9477?style=flat-square&labelColor=4D9477&color=4D9477" alt="Languages & Frontend">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs&theme=dark" height="42" alt="Python, JavaScript, TypeScript, HTML, CSS, React, Next.js">
-</p>
+<br><br>
 
-</td>
-<td width="33%" valign="top">
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs&theme=dark" height="40" alt="Python, JavaScript, TypeScript, HTML, CSS, React, Next.js">
 
-**Backend & Data**
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,appwrite&theme=dark" height="42" alt="Node.js, PostgreSQL, Appwrite">
-</p>
+`Python` `JavaScript` `TypeScript` `HTML` `CSS` `React` `Next.js`
 
 </td>
-<td width="34%" valign="top">
+<td width="33.33%" valign="top">
 
-**Infrastructure & Tools**
+<img src="https://img.shields.io/badge/Backend%20%26%20Data-4D9477?style=flat-square&labelColor=4D9477&color=4D9477" alt="Backend & Data">
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,cloudflare&theme=dark" height="42" alt="Docker, Git, GitHub, Cloudflare">
-</p>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres&theme=dark" height="40" alt="Node.js, PostgreSQL">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/appwrite/FD366E" width="40" height="40" alt="Appwrite">
+
+<br><br>
+
+`Node.js` `PostgreSQL` `Appwrite`
+
+</td>
+<td width="33.34%" valign="top">
+
+<img src="https://img.shields.io/badge/Infrastructure%20%26%20Tools-4D9477?style=flat-square&labelColor=4D9477&color=4D9477" alt="Infrastructure & Tools">
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,cloudflare&theme=dark" height="40" alt="Docker, Git, GitHub, Cloudflare">
+
+<br><br>
+
+`Docker` `Git` `GitHub` `Cloudflare`
 
 </td>
 </tr>
+</table>
+
+<table width="100%">
 <tr>
-<td width="67%" colspan="2" valign="top">
+<td width="50%" valign="top">
 
-**AI & Automation**
+<img src="https://img.shields.io/badge/AI%20%26%20Automation-4D9477?style=flat-square&labelColor=4D9477&color=4D9477" alt="AI & Automation">
 
-<p>
-<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="38" height="38" alt="LLM APIs">&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="38" height="38" alt="n8n">&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openrouter/FFFFFF" width="38" height="38" alt="OpenRouter">&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/json/FFFFFF" width="38" height="38" alt="REST APIs">
-</p>
+<br><br>
 
-**LLM APIs** · **n8n** · **OpenRouter** · **AI Agents** · **RAG** · **REST APIs**
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="40" height="40" alt="OpenAI / LLM APIs">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" height="40" alt="n8n">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openrouter/FFFFFF" width="40" height="40" alt="OpenRouter">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/json/FFFFFF" width="40" height="40" alt="REST APIs">
+
+<br><br>
+
+`LLM APIs` `n8n` `OpenRouter` `AI Agents` `RAG` `REST APIs`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**Web Platforms**
+<img src="https://img.shields.io/badge/Web%20Platforms-4D9477?style=flat-square&labelColor=4D9477&color=4D9477" alt="Web Platforms">
 
-<p>
-<img src="https://cdn.simpleicons.org/wordpress/FFFFFF" width="38" height="38" alt="WordPress">&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/woocommerce/96588A" width="38" height="38" alt="WooCommerce">
-</p>
+<br><br>
 
-**WordPress** · **WooCommerce**
+<img src="https://cdn.simpleicons.org/wordpress/21759B" width="40" height="40" alt="WordPress">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/woocommerce/96588A" width="40" height="40" alt="WooCommerce">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/moldav69/moldav69/main/assets/icons/monitor-smartphone.svg" width="40" height="40" alt="Custom web products">
+
+<br><br>
+
+`WordPress` `WooCommerce` `Custom Web Products`
 
 </td>
 </tr>
